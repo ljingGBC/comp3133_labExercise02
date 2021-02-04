@@ -1,0 +1,17 @@
+{
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [],
+  "author": "Lei Jing",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1"
+  }
+}
